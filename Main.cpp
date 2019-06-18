@@ -1,6 +1,3 @@
-// Jim Hester
-// Example 08 - blackjack
-
 #include<iostream>
 #include"Tools.h"
 #include<time.h>
